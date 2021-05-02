@@ -7,7 +7,7 @@ const Project = () => {
     return (
       <Container>
             <div className="mt-5 mb-3">
-                <h1 className="heading-style text-center">My Latest Activities</h1>
+                <h1 className="heading-style text-center">Some of My Projects</h1>
             </div>
             <Row>
             {

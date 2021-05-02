@@ -1,7 +1,12 @@
+import travelImg from '../images/travel.png'
+import footballImg from '../images/football.png'
+import choloJai from '../images/choloJai.png'
+import Ecommerce from '../images/Ecommerce.png'
+
 const projectData = [
     {
         id: 1,
-        img:'https://i.ibb.co/PrSnv4M/travel.png',
+        img:travelImg,
         title: 'Travel Agency',
         Description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, voluptatem!',
         github: 'https://github.com/Rafee1100/travel-agent',
@@ -9,7 +14,7 @@ const projectData = [
     },
     {
         id: 2,
-        img: 'https://i.ibb.co/PrSnv4M/travel.png',
+        img: footballImg,
         title: 'Premier League Team Management',
         Description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, voluptatem!',
         github: 'https://github.com/Rafee1100/react-team-management',
@@ -17,7 +22,7 @@ const projectData = [
     },
     {
         id: 3,
-        img: 'https://i.ibb.co/SnGLrms/voyager.png',
+        img: choloJai,
         title: 'Cholo Jai',
         Description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, voluptatem!',
         github: 'https://github.com/Rafee1100/rider-express',
@@ -25,7 +30,7 @@ const projectData = [
     },
     {
         id: 4,
-        img: 'https://i.ibb.co/PrSnv4M/travel.png',
+        img: Ecommerce,
         title: 'E Commerce Design',
         Description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, voluptatem!',
         github: 'https://github.com/Rafee1100/Ecommerce-shoe',

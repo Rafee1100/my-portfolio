@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');
 
 .project-style{
-    border:6px solid green;
+    border:6px solid rgb(10, 7, 160);
     border-radius:10px;
 }
 .img-style{
@@ -9,7 +9,7 @@
     border-radius:5px;
 }
 .heading-style{
-    color:rgb(30, 158, 197);
+    color:rgb(240, 233, 134);
     font-family: 'Montserrat', sans-serif;
     font-size:45px;  
 }
