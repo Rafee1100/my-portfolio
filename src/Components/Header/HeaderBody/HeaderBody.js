@@ -7,7 +7,7 @@ import image from '../../../images/rafee.jpg'
 import "./HeaderBody.css"
 
 const HeaderBody = () => {
-    const link = `https://drive.google.com/file/d/14aBQ_9YzmzG2t3RSqGrPgXPwO-8-NgzZ/view?usp=sharing`;
+    const link='https://drive.google.com/uc?export=download&id=14aBQ_9YzmzG2t3RSqGrPgXPwO-8-NgzZ';
     const myStyle={
         textDecoration:'none',
         color:'white',
