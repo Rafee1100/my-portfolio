@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+.link-style{
+    font-size:18px;
+    font-weight:600;
+    border-radius:5px;
+    font-family: 'Noto Sans', sans-serif;
+}
+.link-style:hover{
+   background:#293556;
+   transform:scale(1.1);
+}
+.active{
+    background-color:#5983FC;
+}
+.active:hover{
+    background-color:#06882d
+}
